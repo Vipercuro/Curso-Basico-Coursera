@@ -1,0 +1,90 @@
+h1 {
+    color: black;
+    font-family: 'Lobster', cursive;
+}
+
+.titulo-verde {
+  color: green;
+}
+
+#titulo-rojo {
+  color:rgb(255, 0, 0);
+}
+  
+h3 {
+  color: purple;
+  font-size: 21px;
+}
+
+.titulo-historia {
+  color: olive;
+  text-decoration: line-through
+}
+
+#parrafo-3 {
+  color: palevioletred;
+  text-decoration: pink wavy underline; 
+}
+
+a[href="https://www.instagram.com/vipercuro/"] {
+  font-family: 'Lobster', cursive;
+  text-decoration: none;
+}
+a[href="https://www.facebook.com/victorromeropercusion"] {
+  font-family: 'Lobster', cursive;
+  text-decoration: none;
+}
+
+.historia {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+.listas-victor {
+  color: chocolate;
+}
+
+#segundo-titulo {
+  font-family: 'Roboto', sans-serif;
+}
+
+h3,
+p,
+a,
+ul,
+ol {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.victor-boda {
+  width: 400px
+}
+
+.victor-surf {
+  width: 400px;
+  border-radius: 50px;
+  background-color: orange;
+  margin: 15px;
+  border-color: black;
+  border-style: solid;
+}
+
+.victor-vela {
+  width: 300px;
+  padding: 10px;
+  background-color: aquamarine;
+  border-width: 15px;
+  border-color: grey;
+  border-style: inset double dashed dotted;
+}
+
+[type="radio"] {
+  margin: 5px;
+}
+[type="checkbox"] {
+  margin: 8px;
+}
+
+div {
+  background-color:rgb(250, 250, 168);
+  border-radius: 5px;
+}
